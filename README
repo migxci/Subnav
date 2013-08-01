@@ -1,1 +1,7 @@
-Hi.
+Code for the fixed sub-navigation found on BetterCloud's article page. 
+
+-The HTML should be pasted on the top of the Article Page in Zendesk's Customize Design panel. 
+
+-The CSS should be pasted to the CSS portion of the Customize Design panel.
+
+-The jQuery should be pasted into the Document head in the Customize design panel using a <script> tag. 
